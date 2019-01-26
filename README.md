@@ -1,4 +1,4 @@
-# Chocolatey_VS-Code-C-Development-Setup
+# Chocolatey VS Code C Development Setup
 ## What it is?
 A Visual Studio Code configuration that allows the *.c/.cpp* files to be compiled and the *'.exe'* file to be executed, will be created with the same name as the base *.c/.cpp* file.
 
