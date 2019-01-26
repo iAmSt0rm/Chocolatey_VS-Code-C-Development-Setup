@@ -1,0 +1,3 @@
+v1.0: 26-01-2019
+*Added support for both C/Cpp projects.
+*Supports all file extensions supported by 'g++'
